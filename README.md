@@ -11,4 +11,4 @@ Completed several lessons on forms on FCC.
 
 ## 22/10/2002
 
-Completed another project on freecodecamp, and learned a value lessons in accuracy and spec in CSS. Will not make the same mistake again! 
+Completed another project on freecodecamp, and learned a value lessons in accuracy and spec in CSS. Will not make the same mistake again! Built more tables and learned that caption should also be first element within them. Added to Anki deck
