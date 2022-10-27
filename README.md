@@ -16,3 +16,7 @@ Completed another project on freecodecamp, and learned a value lessons in accura
 ##23/10/2022
 
 Learned about flex positioning using flexbox froggy, and very fun way to learn!
+
+##27/10/2022
+
+Completed FCC certification
