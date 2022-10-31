@@ -27,4 +27,12 @@ Started blockchain course on Codecademy
 
 ##29/10/2022
 
-Revised JS Data Structures and Algorithims. A lot to take on but more is starting to make sense/
+Revised JS Data Structures and Algorithims. A lot to take on but more is starting to make sense!
+
+##30/10/2022
+
+Continued with JS Data Structures and Algorithims on FCC
+
+##31/10/2022
+
+Learned a few neat tricks and shortcuts for VS code!
