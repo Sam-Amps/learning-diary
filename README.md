@@ -13,15 +13,15 @@ Completed several lessons on forms on FCC.
 
 Completed another project on freecodecamp, and learned a value lessons in accuracy and spec in CSS. Will not make the same mistake again! Built more tables and learned that caption should also be first element within them. Added to Anki deck
 
-##23/10/2022
+## 23/10/2022
 
 Learned about flex positioning using flexbox froggy, and very fun way to learn!
 
-##27/10/2022
+## 27/10/2022
 
 Completed FCC certification
 
-##28/10/2022
+## 28/10/2022
 
 Started blockchain course on Codecademy
 
@@ -42,3 +42,6 @@ Networked with software engineers at my company, and arranged a chat with a tech
 
 ## 2/11/2022 
 completed some codewards
+
+## 3/11/2022
+Re-inforced learning on arrays and loops using codecademy
