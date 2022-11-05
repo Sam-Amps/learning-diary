@@ -48,3 +48,6 @@ Re-inforced learning on arrays and loops using codecademy
 
 ## 4/11/2022
 More work on personal portfoloio page
+
+##5/11/2022
+Completed sleep debt project on codecademy
