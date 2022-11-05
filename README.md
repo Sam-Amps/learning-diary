@@ -45,3 +45,6 @@ completed some codewards
 
 ## 3/11/2022
 Re-inforced learning on arrays and loops using codecademy
+
+## 4/11/2022
+More work on personal portfoloio page
