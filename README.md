@@ -31,7 +31,7 @@ Revised JS Data Structures and Algorithims. A lot to take on but more is startin
 
 ##30/10/2022
 
-Continued with JS Data Structures and Algorithims on FCC
+Continued with JS Data Structures and Algorithims on FCC.
 
 ##31/10/2022
 
