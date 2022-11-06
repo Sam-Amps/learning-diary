@@ -23,7 +23,7 @@ Completed FCC responsive web dev certification.
 
 ## 28/10/2022
 
-Started blockchain course on Codecademy
+Started blockchain course on Codecademy.
 
 ##29/10/2022
 
