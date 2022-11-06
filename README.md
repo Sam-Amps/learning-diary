@@ -41,7 +41,7 @@ Learned a few neat tricks and shortcuts for VS code!
 Networked with software engineers at my company, and arranged a chat with a tech lead
 
 ## 2/11/2022 
-completed some codewards
+completed some codewars
 
 ## 3/11/2022
 Re-inforced learning on arrays and loops using codecademy
