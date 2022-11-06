@@ -3,7 +3,7 @@ A daily journal of learning
 
 ## 20/10/2022
 
-Today I learned how to create a new repo on GitHub. Demo
+Today I learned how to create a new repo on GitHub.
 
 ## 21/10/2022
 
