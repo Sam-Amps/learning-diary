@@ -51,3 +51,7 @@ More work on personal portfoloio page
 
 ##5/11/2022
 Completed sleep debt project on codecademy
+
+## 6/11/2022
+
+Learned passing by reference in JS objects
