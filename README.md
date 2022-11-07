@@ -55,5 +55,5 @@ Completed sleep debt project on codecademy
 ## 6/11/2022
 Learned passing by reference in JS objects
 
-##7/11/2022
+## 7/11/2022
 Learned about agile methodology using Google PC
