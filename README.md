@@ -19,7 +19,7 @@ Learned about flex positioning using flexbox froggy, and very fun way to learn!
 
 ## 27/10/2022
 
-Completed FCC responsive web dev certification.
+Completed FCC responsive web dev certification. Still need to practise flexbox.
 
 ## 28/10/2022
 
