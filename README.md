@@ -44,7 +44,7 @@ Networked with software engineers at my company, and arranged a chat with a tech
 completed some codewars
 
 ## 3/11/2022
-Re-inforced learning on arrays and loops using codecademy
+Re-inforced learning on arrays and loops using codecademy. Added to Anki deck
 
 ## 4/11/2022
 More work on personal portfoloio page
