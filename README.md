@@ -1,5 +1,5 @@
 # Learning Diary
-A daily journal of learning
+A daily journal of my learning
 
 ## 20/10/2022
 
