@@ -57,3 +57,5 @@ Learned passing by reference in JS objects
 
 ## 7/11/2022
 Learned about agile methodology using Google PC
+
+##8/12/2022
