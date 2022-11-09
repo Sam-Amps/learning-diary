@@ -60,3 +60,6 @@ Learned about agile methodology using Google PC
 
 ##8/12/2022
 No code today, but learned more about agile project management
+
+##9/12/2022
+Added styling to comment box
