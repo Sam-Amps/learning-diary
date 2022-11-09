@@ -59,4 +59,4 @@ Learned passing by reference in JS objects
 Learned about agile methodology using Google PC
 
 ##8/12/2022
-No code today, but learned more about agile project management 
+No code today, but learned more about agile project management
