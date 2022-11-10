@@ -63,3 +63,6 @@ No code today, but learned more about agile project management
 
 ##9/12/2022
 Added styling to comment box
+
+## 10/11/2022
+More work on portfoloio site
