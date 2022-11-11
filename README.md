@@ -66,3 +66,6 @@ Added styling to comment box
 
 ## 10/11/2022
 More work on portfoloio site
+
+## 11/11/2022
+Completed more lessons of FCC Data Stuctures and Algorithms
