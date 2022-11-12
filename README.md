@@ -69,3 +69,6 @@ More work on portfoloio site
 
 ## 11/11/2022
 Completed more lessons of FCC Data Stuctures and Algorithms
+
+## 12/11/2022
+Continue with data structures and algortihms work
