@@ -1,5 +1,5 @@
 # Learning Diary
-A daily journal of my learning
+A daily journal of my learning.
 
 ## 20/10/2022
 
@@ -72,3 +72,6 @@ Completed more lessons of FCC Data Stuctures and Algorithms
 
 ## 12/11/2022
 Continue with data structures and algortihms work
+
+##13/11/2002
+Finished up first batch of beginner algorthims.
