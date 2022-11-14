@@ -37,7 +37,7 @@ Continued with JS Data Structures and Algorithims on FCC.
 
 Learned a few neat tricks and shortcuts for VS code!
 
-##1/11/2022
+## 1/11/2022
 Networked with software engineers at my company, and arranged a chat with a tech lead
 
 ## 2/11/2022 
