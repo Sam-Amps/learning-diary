@@ -49,7 +49,7 @@ Re-inforced learning on arrays and loops using codecademy. Added to Anki deck
 ## 4/11/2022
 More work on personal portfoloio page
 
-##5/11/2022
+## 5/11/2022
 Completed sleep debt project on codecademy
 
 ## 6/11/2022
