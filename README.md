@@ -73,7 +73,7 @@ Completed more lessons of FCC Data Stuctures and Algorithms
 ## 12/11/2022
 Continue with data structures and algortihms work
 
-## 13/11/2002
+## 13/11/2022
 Finished up first batch of beginner algorthims.
 
 ##14/11/2022
