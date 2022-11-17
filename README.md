@@ -77,3 +77,4 @@ Continue with data structures and algortihms work
 Finished up first batch of beginner algorthims.
 
 ## 14/11/2022
+MA Meetup, good networking
