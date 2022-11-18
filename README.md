@@ -78,3 +78,5 @@ Finished up first batch of beginner algorthims.
 
 ## 14/11/2022
 MA Meetup, good networking
+
+## 15/11/2022
