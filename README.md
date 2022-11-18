@@ -80,3 +80,4 @@ Finished up first batch of beginner algorthims.
 MA Meetup, good networking
 
 ## 15/11/2022
+Informal chat with codebar coach
