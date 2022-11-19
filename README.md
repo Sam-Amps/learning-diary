@@ -81,3 +81,6 @@ MA Meetup, good networking
 
 ## 15/11/2022
 Informal chat with codebar coach
+
+##16/11/2022
+Movie data project complete
