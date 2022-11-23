@@ -89,3 +89,4 @@ Movie data project complete
 Porfotlio website basic HTML and CSS done
 
 ## 18/11/2022
+Started Python beginners course
