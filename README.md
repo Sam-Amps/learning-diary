@@ -92,3 +92,4 @@ Porfotlio website basic HTML and CSS done
 Started Python beginners course
 
 ##19/11/2022
+project gallery complete
